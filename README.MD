@@ -3,7 +3,7 @@
 `npm install zipsearch`
 
 # Include
-`const { findZip } = require('./geosearch');`
+`const { findZip } = require('zipsearch');`
 
 # Pass latitude and longitude to the findZip function
 ```javascript

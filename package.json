@@ -1,6 +1,6 @@
 {
   "name": "zipsearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get any US Postal Code from a given Latitude Longitude combination",
   "files": [
     "lib",

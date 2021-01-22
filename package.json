@@ -1,0 +1,27 @@
+{
+  "name": "zipsearch",
+  "version": "1.0.0",
+  "description": "Get any US Postal Code from a given Latitude Longitude combination",
+  "files": [
+    "lib",
+    "README.MD"
+  ],
+  "main": "lib/geosearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zip codes",
+    "postal codes",
+    "latitude",
+    "longitude",
+    "locations"
+  ],
+  "author": "Scott Bishop <sb167u@att.com>",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuotChu/zipsearch.git"
+  },
+  "dependencies": {}
+}
